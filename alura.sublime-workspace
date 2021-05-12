@@ -1,0 +1,552 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"config",
+				"configMapKeyRef"
+			],
+			[
+				"MY",
+				"MYSQL_ROOT_PASSWORD"
+			],
+			[
+				"he",
+				"head\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"cada",
+				"cadastros"
+			],
+			[
+				"cadastr",
+				"Cadastros"
+			],
+			[
+				"array_un",
+				"array_unshift"
+			],
+			[
+				"array_p",
+				"array_pop"
+			],
+			[
+				"arra_p",
+				"array_push"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"ca",
+				"cad"
+			],
+			[
+				"usn",
+				"unset"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"str_",
+				"str_ireplace"
+			],
+			[
+				"uc",
+				"ucwords"
+			],
+			[
+				"strtol",
+				"strtolower"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"nome",
+				"nome2"
+			],
+			[
+				"var",
+				"var_export"
+			],
+			[
+				"v",
+				"v2"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"fun",
+				"fun\tfunction …"
+			],
+			[
+				"func",
+				"func_num_args"
+			],
+			[
+				"func_get",
+				"func_get_args"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"not",
+				"not1"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"le",
+				"legend"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"n",
+				"nota2"
+			],
+			[
+				"nota",
+				"nota1"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"su",
+				"sup\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"ted",
+				"text-shadow\tproperty"
+			],
+			[
+				"h",
+				"h2"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"valor",
+				"valor2"
+			],
+			[
+				"lista",
+				"lista1"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"b",
+				"body\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "Sobre a Barbearia Alura",
+			"file_size": 527,
+			"file_write_time": 132647174288083123,
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "Sobre a Barbearia Alura"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/VINNY/Documents/curriculo/tela de login.html",
+		"/C/xampp/htdocs/CRUD/config.php",
+		"/C/xampp/htdocs/CRUD/header.php",
+		"/C/xampp/htdocs/CRUD/inc/database.php",
+		"/C/xampp/htdocs/CRUD/clientes/modal.php",
+		"/C/xampp/htdocs/CRUD/customers/add.php",
+		"/C/xampp/htdocs/CRUD/clientes/view.php",
+		"/C/xampp/htdocs/CRUD/clientes/index.php",
+		"/C/xampp/htdocs/CRUD/index.php",
+		"/C/xampp/htdocs/CRUD/database.php",
+		"/C/xampp/htdocs/CRUD/customers/edit.php",
+		"/C/xampp/htdocs/CRUD/customers/delete.php",
+		"/C/xampp/htdocs/CRUD/clientes/functions.php",
+		"/C/xampp/htdocs/CRUD/js/main.js",
+		"/C/xampp/htdocs/CRUD/customers/view.php",
+		"/C/Users/VINNY/Documents/curriculo/index.html",
+		"/C/xampp/htdocs/CRUD/customers/modal.php",
+		"/C/xampp/htdocs/CRUD/customers/index.php",
+		"/C/xampp/htdocs/CRUD/customers/functions.php",
+		"/C/xampp/htdocs/CRUD/inc/header.php",
+		"/C/xampp/htdocs/CRUD/clientes/delete.php",
+		"/C/xampp/htdocs/CRUD/js/bootstrap.min.js",
+		"/J/Kubernetes/pod-1.yaml",
+		"/J/Kubernetes/pod-2.yaml",
+		"/C/Users/VINNY/PycharmProjects/kubernetes-alura/svc-pod-2.yaml",
+		"/C/Users/VINNY/PycharmProjects/kubernetes-alura/svc-db-noticias.yaml",
+		"/C/Users/VINNY/PycharmProjects/kubernetes-alura/svc-pod-1.yaml",
+		"/C/Users/VINNY/PycharmProjects/kubernetes-alura/portal-noticias.yaml",
+		"/C/Users/VINNY/PycharmProjects/kubernetes-alura/svc-portal-noticias.yaml",
+		"/C/Users/VINNY/PycharmProjects/kubernetes-alura/sistema-noticias.yaml",
+		"/C/Users/VINNY/PycharmProjects/kubernetes-alura/svc-sistema-noticias.yaml",
+		"/C/Users/VINNY/PycharmProjects/kubernetes-alura/db-noticias.yaml",
+		"/C/Users/VINNY/PycharmProjects/kubernetes-alura/sistema-configmap.yaml",
+		"/C/Users/VINNY/PycharmProjects/kubernetes-alura/db-configmap.yaml",
+		"/C/Users/VINNY/PycharmProjects/kubernetes-alura/portal-configmap.yaml",
+		"/C/Users/VINNY/Documents/curriculo/json.html",
+		"/C/Users/VINNY/Documents/curriculo/teste.html",
+		"/C/Users/VINNY/Documents/curriculo/exercicio1.html",
+		"/C/Users/VINNY/Documents/curriculo/matricula.html",
+		"/C/Users/VINNY/Documents/curriculo/jquery.html",
+		"/C/Users/VINNY/Documents/curriculo/jqueryCalendario.html",
+		"/C/Users/VINNY/Documents/curriculo/js/index.html",
+		"/C/Users/VINNY/Documents/curriculo/jquery-3.6.0.js",
+		"/C/xampp/htdocs/delivery/css/bootstrap.css",
+		"/C/xampp/htdocs/ProjetoBNDES2/css/bootstrap.css",
+		"/C/Users/VINNY/Desktop/volume-exemplo/alura-docker-cap05/server.js",
+		"/C/Users/VINNY/Desktop/volume-exemplo/alura-docker-cap05/config/database.js",
+		"/C/Users/VINNY/Desktop/volume-exemplo/alura-docker-cap05/routes/index.js",
+		"/C/Users/VINNY/Desktop/volume-exemplo/node.dockerfile",
+		"/C/xampp/htdocs/delivery/index.html",
+		"/C/Users/VINNY/Desktop/volume-exemplo/index.html",
+		"/C/Users/VINNY/Documents/git-e-github/index.html",
+		"/C/Users/VINNY/Documents/git-e-github/ana/index.html",
+		"/C/Users/VINNY/Documents/git-e-github/ana/projeto/index.html",
+		"/C/xampp/htdocs/olamundo/SQLSERVER/Conexao.php",
+		"/C/xampp/htdocs/olamundo/SQLSERVER/index.php",
+		"/C/xampp/htdocs/olamundo/aula07.php",
+		"/C/xampp/htdocs/delivery/autenticar.php",
+		"/C/xampp/htdocs/delivery/login.php",
+		"/C/xampp/htdocs/delivery/index.php",
+		"/C/xampp/htdocs/delivery/deliveryol.sql",
+		"/C/xampp/htdocs/delivery/conexao.php",
+		"/C/xampp/htdocs/olamundo/aula19/02funcoesVetor.php",
+		"/C/xampp/htdocs/olamundo/aula12/01contador.php",
+		"/C/xampp/htdocs/olamundo/aula08.php",
+		"/C/xampp/htdocs/ProjetoBNDES/index.php",
+		"/C/Users/VINNY/Desktop/tela/index.php",
+		"/C/xampp/htdocs/ProjetoBNDES/Loja.php",
+		"/C/xampp/htdocs/ProjetoBNDES/suzimodas.php",
+		"/C/xampp/htdocs/ProjetoBNDES/cabecalho.php",
+		"/C/xampp/htdocs/ProjetoBNDES/Cadastro.php",
+		"/C/xampp/htdocs/ProjetoBNDES/rodape.php",
+		"/C/xampp/htdocs/ProjetoBNDES2/ProjetoBNDES2 (1)/ProjetoBNDES2/js/funcoes.js",
+		"/C/xampp/htdocs/ProjetoBNDES/Pessoa.php",
+		"/C/xampp/htdocs/ProjetoBNDES/cabecalhonew.php",
+		"/C/xampp/htdocs/ProjetoBNDES2/cabecalhoold.php",
+		"/C/xampp/htdocs/ProjetoBNDES2/index (2).php",
+		"/C/xampp/htdocs/ProjetoBNDES2/index (1).php",
+		"/C/xampp/htdocs/ProjetoBNDES2/index (1).html",
+		"/C/xampp/htdocs/ProjetoBNDES2/suzimodas.html",
+		"/C/xampp/htdocs/ProjetoBNDES2/teste.php",
+		"/C/xampp/htdocs/ProjetoBNDES2/index.php",
+		"/C/xampp/htdocs/ProjetoBNDES/logout.php",
+		"/C/xampp/htdocs/ProjetoBNDES/autenticar.php",
+		"/C/xampp/htdocs/ProjetoBNDES/conexao.php",
+		"/C/xampp/htdocs/ProjetoBNDES/config.php",
+		"/C/xampp/htdocs/ProjetoBNDES/login.php",
+		"/C/xampp/htdocs/ProjetoBNDES/painel-Admin/index.php",
+		"/C/xampp/htdocs/ProjetoBNDES/index2.php",
+		"/C/xampp/htdocs/ProjetoBNDES2/registro.php",
+		"/C/xampp/htdocs/ProjetoBNDES/registro.php",
+		"/C/xampp/htdocs/ProjetoBNDES/indexolld.php",
+		"/C/xampp/htdocs/ProjetoBNDES/indexold.php",
+		"/C/xampp/htdocs/ProjetoBNDES/painel-Admin/painel-Admin.php",
+		"/C/xampp/htdocs/ProjetoBNDES/sobre.php",
+		"/C/xampp/htdocs/ProjetoBNDES/contatos.php",
+		"/C/xampp/htdocs/ProjetoBNDES/Produto.php",
+		"/C/xampp/htdocs/ProjetoBNDES/about.html",
+		"/C/xampp/htdocs/delivery/painel-cliente/plugins/bootstrap-switch/js/bootstrap-switch.min.js",
+		"/C/xampp/htdocs/delivery/painel-cliente/plugins/bootstrap-switch/js/bootstrap-switch.js",
+		"/C/xampp/htdocs/delivery/config.php",
+		"/C/xampp/htdocs/delivery/cadastrar-usuario.php",
+		"/C/xampp/htdocs/delivery/cabecalho.php",
+		"/C/xampp/htdocs/delivery/css/style.css",
+		"/C/xampp/htdocs/delivery/painel-cliente/plugins/datatables-buttons/js/dataTables.buttons.js",
+		"/C/xampp/htdocs/delivery/painel-cliente/plugins/chart.js/Chart.bundle.js",
+		"/C/xampp/htdocs/delivery/painel-cliente/dist/css/adminlte.css",
+		"/C/xampp/htdocs/delivery/painel-cliente/dist/css/alt/adminlte.core.css",
+		"/C/xampp/htdocs/olamundo/teste.php",
+		"/C/xampp/htdocs/olamundo/aula19/03funcoesVetor.php",
+		"/C/xampp/htdocs/olamundo/aula18/02matriz.php",
+		"/C/xampp/htdocs/olamundo/aula18/01array.php",
+		"/C/xampp/htdocs/olamundo/aula17/07str_replace.php",
+		"/C/xampp/htdocs/olamundo/aula17/06str_repeat.php",
+		"/C/xampp/htdocs/olamundo/aula17/05str_pad.php",
+		"/C/xampp/htdocs/olamundo/aula17/04substr.php",
+		"/C/xampp/htdocs/olamundo/aula17/03strpos.php",
+		"/C/xampp/htdocs/olamundo/aula17/02ucfirst.php",
+		"/C/xampp/htdocs/olamundo/aula17/01strlower.php",
+		"/C/xampp/htdocs/olamundo/aula16/06chr.php",
+		"/C/xampp/htdocs/olamundo/aula16/05str_word_count.php",
+		"/C/xampp/htdocs/olamundo/aula16/04strlen.php",
+		"/C/xampp/htdocs/olamundo/aula16/03wordwrap.php",
+		"/C/xampp/htdocs/olamundo/aula16/02printr.php",
+		"/C/xampp/htdocs/olamundo/aula16/01printf.php",
+		"/C/xampp/htdocs/olamundo/aula15/funcoes.php",
+		"/C/xampp/htdocs/olamundo/aula15/02funcao.php",
+		"/C/xampp/htdocs/olamundo/aula15/01funcao.php"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 128.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<html lang=\"pb\" ng-app=\"sn.$sp\" ng-init=\"portal_id = 'b73a27c01bd4d4506ab9dd3abc4bcb57'\" style=\"height: 100%\" class=\"page-{{page.sys_id}} v{{page.sys_id}}\" data-page-id=\"{{page.sys_id}}\"><head sp-metatags=\"\"><title>Training Login - Training Portal</title>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Sobre a Barbearia Alura",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Sobre a Barbearia Alura",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 104.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "alura.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
